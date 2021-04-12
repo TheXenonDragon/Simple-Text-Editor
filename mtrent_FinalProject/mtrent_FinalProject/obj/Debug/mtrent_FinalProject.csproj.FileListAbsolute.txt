@@ -1,0 +1,10 @@
+E:\mtrent_FinalProject\mtrent_FinalProject\bin\Debug\mtrent_FinalProject.exe.config
+E:\mtrent_FinalProject\mtrent_FinalProject\bin\Debug\mtrent_FinalProject.exe
+E:\mtrent_FinalProject\mtrent_FinalProject\bin\Debug\mtrent_FinalProject.pdb
+E:\mtrent_FinalProject\mtrent_FinalProject\obj\Debug\mtrent_FinalProject.csprojAssemblyReference.cache
+E:\mtrent_FinalProject\mtrent_FinalProject\obj\Debug\mtrent_FinalProject.Form1.resources
+E:\mtrent_FinalProject\mtrent_FinalProject\obj\Debug\mtrent_FinalProject.Properties.Resources.resources
+E:\mtrent_FinalProject\mtrent_FinalProject\obj\Debug\mtrent_FinalProject.csproj.GenerateResource.cache
+E:\mtrent_FinalProject\mtrent_FinalProject\obj\Debug\mtrent_FinalProject.csproj.CoreCompileInputs.cache
+E:\mtrent_FinalProject\mtrent_FinalProject\obj\Debug\mtrent_FinalProject.exe
+E:\mtrent_FinalProject\mtrent_FinalProject\obj\Debug\mtrent_FinalProject.pdb
